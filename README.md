@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Surbhi Kumari</h1>
+
+<h1 align="center">Hi there👋, I'm Surbhi Kumari</h1>
 <h3 align="center">A passionate web developer | programmer | epicure 😇</h3>
 <hr>
 
