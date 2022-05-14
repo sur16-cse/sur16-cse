@@ -6,9 +6,9 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" style="border-radius:40%">
 
-- 🔭 I’m currently working on **nodeJs**
+- 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **Design and Analysis of Algorithms**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
