@@ -1,10 +1,8 @@
-
-
 <h1 align="center">Hi there👋, I'm Surbhi Kumari</h1>
 <h3 align="center">A passionate web developer | programmer | epicure 😇</h3>
 <hr>
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" style="border-radius:40%">
+<img  width="300" align="right" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 - 🔭 I’m currently working on **ReactJS**
 
@@ -19,7 +17,6 @@
 - 📫 How to reach me **surbhikumaridav@gmail.com**
 
 - ⚡ Fun fact **When I get bored I used to cook food.😊**
-
 
 
 <h3 align="left">My Tech stack:</h3>
