@@ -4,13 +4,13 @@
 
 <img  width="300" align="right" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **ReactJS Redux**
 
 - 🌱 I’m currently learning **Design and Analysis of Algorithms**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **Java**
+- 🤝 I’m looking for help with **Java Projects**
 
 - 💬 Ask me about **Coding and Frontend development**
 
