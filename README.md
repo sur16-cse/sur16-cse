@@ -4,7 +4,7 @@
 
 <img  width="300" align="right" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-- 🔭 I’m currently working on **Full Stack Developer**
+- 🔭 I’m currently working as a **Full Stack Developer**
 
 - 🌱 I’m currently learning **Design and Analysis of Algorithms**
 
