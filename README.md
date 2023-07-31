@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Surbhi Kumari</h1>
-<h3 align="center">A passionate frontend web developer | programmer | epicure 😇</h3>
+<h3 align="center">A passionate full stack developer | programmer | epicure 😇</h3>
 <hr>
 
 <img  width="300" align="right" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
