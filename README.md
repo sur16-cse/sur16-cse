@@ -1,8 +1,4 @@
-# Hi there 👋, I'm Surbhi Kumari  
-
-**A Passionate Software Engineer | Frontend (React & Next.js) | Backend (Java)**  
-
-<img align="right" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="300" alt="Typing animation">  
+<h1 align="center">Hi there 👋, I'm Surbhi Kumari</h1> <h3 align="center">A passionate Software Engineer | Frontend (React & Nextjs) | Backend (Java)</h3> <hr> <img width="300" align="right" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 ## About Me  
 
